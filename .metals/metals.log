@@ -533,3 +533,27 @@ select build_target_uri from dependency_source where text_document_uri = ?; [421
 2022.04.07 06:00:36 INFO  time: code lens generation in 6.15s
 2022.04.07 06:03:03 WARN  no build target for: /root/grad_design/Experiments_GraphX/spark-graphx-twitter/build.sbt
 2022.04.07 06:03:11 WARN  no build target for: /root/grad_design/Experiments_GraphX/spark-graphx-twitter/src/main/scala/com.knoldus.spark.graphx.example/FindInfluencer.scala
+2022.04.08 02:51:13 INFO  shutting down Metals
+2022.04.08 02:57:49 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /root/grad_design/Experiments_GraphX/.metals/lsp.trace.json or /root/.cache/metals/lsp.trace.json
+2022.04.08 02:57:50 INFO  logging to file /root/grad_design/Experiments_GraphX/.metals/metals.log
+2022.04.08 02:57:50 INFO  Started: Metals version 0.11.2 in workspace '/root/grad_design/Experiments_GraphX' for client Visual Studio Code 1.66.0.
+2022.04.08 02:57:51 INFO  time: initialize in 1.39s
+2022.04.08 02:57:52 WARN  Build server is not auto-connectable.
+2022.04.08 02:57:52 WARN  no build tool detected in workspace '/root/grad_design/Experiments_GraphX'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.04.08 02:57:52 WARN  no build target for: /root/grad_design/Experiments_GraphX/spark-graphx-twitter/src/main/scala/com.knoldus.spark.graphx.example/FindInfluencer.scala
+2022.04.08 02:57:56 INFO  no build target found for /root/grad_design/Experiments_GraphX/spark-graphx-twitter/src/main/scala/com.knoldus.spark.graphx.example/FindInfluencer.scala. Using presentation compiler with project's scala-library version: 3.1.1
+2022.04.08 02:57:59 INFO  time: code lens generation in 6.37s
+2022.04.08 10:37:45 WARN  no build target for: /root/grad_design/Experiments_GraphX/spark-graphx-twitter/src/main/scala/com.knoldus.spark.graphx.example/FindInfluencer.scala
+Apr 08, 2022 10:37:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2022.04.08 17:18:53 INFO  shutting down Metals
+2022.04.09 01:04:05 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /root/grad_design/Experiments_GraphX/.metals/lsp.trace.json or /root/.cache/metals/lsp.trace.json
+2022.04.09 01:04:13 INFO  logging to file /root/grad_design/Experiments_GraphX/.metals/metals.log
+2022.04.09 01:04:13 INFO  Started: Metals version 0.11.2 in workspace '/root/grad_design/Experiments_GraphX' for client Visual Studio Code 1.66.0.
+2022.04.09 01:04:17 INFO  time: initialize in 4.1s
+2022.04.09 01:04:20 WARN  Build server is not auto-connectable.
+2022.04.09 01:04:20 WARN  no build tool detected in workspace '/root/grad_design/Experiments_GraphX'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.04.09 01:04:21 WARN  no build target for: /root/grad_design/Experiments_GraphX/spark-graphx-twitter/src/main/scala/com.knoldus.spark.graphx.example/FindInfluencer.scala
+2022.04.09 01:04:25 INFO  no build target found for /root/grad_design/Experiments_GraphX/spark-graphx-twitter/src/main/scala/com.knoldus.spark.graphx.example/FindInfluencer.scala. Using presentation compiler with project's scala-library version: 3.1.1
+2022.04.09 01:04:43 INFO  time: code lens generation in 21s
+2022.04.11 01:16:03 INFO  shutting down Metals
